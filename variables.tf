@@ -1,0 +1,10 @@
+variable "hostname" {}
+variable "instance_type" {}
+variable "region" {}
+variable "tfe-pwd" {}
+variable "tfe_release_sequence" {}
+variable "dns_zonename" {}
+variable "dns_hostname" {}
+variable "unique_name" {}
+variable "certificate_email" {}
+variable "bucket_name" {}
